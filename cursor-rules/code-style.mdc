@@ -1,3 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
 # Typescript Code Style
 
 When we are writing typescript projects, its important that we follow a clear structure and style guidance.
